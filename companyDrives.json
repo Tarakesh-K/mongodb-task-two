@@ -1,0 +1,103 @@
+[
+    {
+        "date": "15-10-2020",
+        "topic": "ES5 vs ES6",
+        "task": "List out the differences between ES5 and ES6"
+    },
+
+    {
+        "date": "16-10-2020",
+        "topic": "React Day One",
+        "task": "Bootstrap Pricing Table"
+    },
+
+    {
+        "date": "17-10-2020",
+        "topic": "React Day Two",
+        "task": "Cart Task"
+    },
+
+    {
+        "date": "18-10-2020",
+        "topic": "React Day Three",
+        "task": "sb-2-admin-value"
+    },
+
+    {
+        "date": "19-10-2020",
+        "topic": "React Day Four",
+        "task": "Basic application using React"
+    },
+    
+    {
+        "date": "20-10-2020",
+        "topic": "React Day Five",
+        "task": "CRUD"
+    },
+
+    {
+        "date": "21-10-2020",
+        "topic": "React Day Five",
+        "task": "CRUD for School Applications"
+    },
+
+    {
+        "date": "22-10-2020",
+        "topic": "React Day Six",
+        "task": "Basic Website"
+    },
+
+    {
+        "date": "23-10-2020",
+        "topic": "React Day Seven",
+        "task": "Responsive Website"
+    },
+
+    {
+        "date": "24-10-2020",
+        "topic": "React Day Eight",
+        "task": "CRUD for Library Management"
+    },
+
+    {
+        "date": "25-10-2020",
+        "topic": "React Day Nine",
+        "task": "List the functions of React"
+    },
+
+    {
+        "date": "26-10-2020",
+        "topic": "React Day Ten",
+        "task": "React Basics and Advanced"
+    },
+
+    {
+        "date": "27-10-2020",
+        "topic": "React Day Eleven",
+        "task": "React Overall Analysis"
+    },
+
+    {
+        "date": "28-10-2020",
+        "topic": "React Day Twelve",
+        "task": "React vs Conventional Front end Programming"
+    },
+
+    {
+        "date": "29-10-2020",
+        "topic": "MySQL",
+        "task": "Simple Table"
+    },
+
+    {
+        "date": "30-10-2020",
+        "topic": "MongoDB",
+        "task": "Simple Database using MongoDB"
+    },
+
+    {
+        "date": "31-10-2020",
+        "topic": "Front-End and Back-End Connectivity",
+        "task": "Front-End and Back-End Connectivity"
+    }
+]

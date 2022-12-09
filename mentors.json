@@ -1,0 +1,65 @@
+[
+    {
+        "userId": 1,
+        "name": "Parameshwar",
+        "age": 35,
+        "mobileNumber": 133134213,
+        "mentees": 22,
+        "active": true,
+        "courses": [ "ReactJS", "Nodejs", "MongoDb" ],
+        "address": {
+            "StreetNumber": 12,
+            "StreetName": "ABC Street",
+            "Area": "Ramapuram",
+            "Pin": 601234        
+        }
+    },
+
+    {
+        "userId": 1,
+        "name": "Jeeva",
+        "age": 41,
+        "mobileNumber": 133134213,
+        "mentees": 40,
+        "active": true,
+        "courses": [ "ReactJS", "Nodejs", "MongoDb" ],
+        "address": {
+            "StreetNumber": 12,
+            "StreetName": "ABC Street",
+            "Area": "Ramapuram",
+            "Pin": 601234        
+        }
+    },
+
+    {
+        "userId": 1,
+        "name": "Johar",
+        "age": 33,
+        "mobileNumber": 133134213,
+        "mentees": 19,
+        "active": true,
+        "courses": [ "ReactJS", "Nodejs", "MongoDb" ],
+        "address": {
+            "StreetNumber": 12,
+            "StreetName": "ABC Street",
+            "Area": "Ramapuram",
+            "Pin": 601234        
+        }
+    },
+
+    {
+        "userId": 1,
+        "name": "Afnan",
+        "age": 44,
+        "mobileNumber": 133134213,
+        "mentees": 35,
+        "active": true,
+        "courses": [ "ReactJS", "Nodejs", "MongoDb" ],
+        "address": {
+            "StreetNumber": 12,
+            "StreetName": "ABC Street",
+            "Area": "Ramapuram",
+            "Pin": 601234        
+        }
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "userId": 1,
+        "name": "Paramesh",
+        "age": 35,
+        "mobileNumber": 133134213,
+        "active": true,
+        "courses": [ "ReactJS", "Nodejs", "MongoDb" ],
+        "address": {
+            "StreetNumber": 12,
+            "StreetName": "ABC Street",
+            "Area": "Ramapuram",
+            "Pin": 601234        
+        },
+        "overallAttendance": {
+            "date": "15-10-2022 to 31-10-2022",
+            "AttendancePercentage": 100,
+            "TaskCompletion": 100
+        },
+        "codekataProblemsSolved": 150
+
+    },
+
+    {
+        "userId": 2,
+        "name": "Jitesh",
+        "age": 35,
+        "mobileNumber": 99999999,
+        "active": true,
+        "courses": [ "ReactJS", "Nodejs", "MongoDb" ],
+        "address": {
+            "StreetNumber": 12,
+            "StreetName": "ABC Street",
+            "Area": "Ramapuram",
+            "Pin": 601224
+        },
+        "overallAttendance": {
+            "date": "15-10-2022 to 31-10-2022",
+            "AttendancePercentage": 80,
+            "TaskCompletion": 70
+        },
+        "codekataProblemsSolved": 140
+    },
+
+    {
+        "userId": 3,
+        "name": "Sarvesh",
+        "age": 35,
+        "mobileNumber": 924588989,
+        "active": true,
+        "courses": [ "ReactJS", "Nodejs", "MongoDb" ],
+        "address": {
+            "StreetNumber": 12,
+            "StreetName": "ABC Street",
+            "Area": "Ramapuram",
+            "Pin": 601345        
+        },
+        "overallAttendance": {
+            "date": "15-10-2022 to 31-10-2022",
+            "AttendancePercentage": 90,
+            "TaskCompletion": 85
+        },
+        "codekataProblemsSolved": 180
+    },
+
+    {
+        "userId": 4,
+        "name": "Madhuri",
+        "age": 35,
+        "mobileNumber": 82736364,
+        "active": true,
+        "courses": [ "ReactJS", "Nodejs", "MongoDb" ],
+        "address": {
+            "StreetNumber": 12,
+            "StreetName": "ABC Street",
+            "Area": "Ramapuram",
+            "Pin": 601367
+        },
+        "overallAttendance": {
+            "date": "15-10-2022 to 31-10-2022",
+            "AttendancePercentage": 100,
+            "TaskCompletion": 80
+        },
+        "codekataProblemsSolved": 200
+    }
+]
